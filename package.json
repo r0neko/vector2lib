@@ -1,0 +1,24 @@
+{
+  "name": "@r0neko/vector2lib",
+  "version": "1.0.0",
+  "description": "Vector2 Implementation in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0neko/vector2lib.git"
+  },
+  "keywords": [
+    "vector2",
+    "javascript",
+    "library"
+  ],
+  "author": "r0neko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0neko/vector2lib/issues"
+  },
+  "homepage": "https://github.com/r0neko/vector2lib#readme"
+}
